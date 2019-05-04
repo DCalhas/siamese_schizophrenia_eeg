@@ -1,8 +1,5 @@
 # Siamese Neural Network Architecture for EEG classification
 
-python version 3.7
-
-
 Requirements:
 * [Python - 3.7]
 * [tensorflow-gpu]
