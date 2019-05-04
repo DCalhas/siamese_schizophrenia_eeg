@@ -1,4 +1,4 @@
-# siamese_schizophrenia_eeg
+# Siamese Neural Network Architecture for EEG classification
 
 python version 3.7
 
