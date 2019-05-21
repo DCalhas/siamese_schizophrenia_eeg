@@ -1,4 +1,4 @@
-# Siamese Neural Network Architecture for EEG classification
+# Siamese Neural Network Architecture for EEG Classification
 
 ### Citation
 Please cite this work as follows:
