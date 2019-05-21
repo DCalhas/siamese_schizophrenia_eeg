@@ -1,5 +1,21 @@
 # Siamese Neural Network Architecture for EEG classification
 
+### Citation
+
+```
+@article{calhas2019scz,
+  title={On the use of Pairwise Distance Learning for Brain Signal Classification with Limited Observations},
+  author={Calhas, David and Romero, Enrique and Henriques, Rui},
+  journal={},
+  volume={},
+  number={},
+  pages={},
+  year={},
+  publisher={}
+}
+
+```
+
 ### Requirements:
 * [Python - 3.7]
 * [tensorflow-gpu]
@@ -29,6 +45,9 @@ Please note that the **snn_hyperparameter_optimization.py** and **cnnclf_hyperpa
 ```
 #change these values according to the ones obtained ...
 ```
+
+### Reproducibility/Comparison Baseline
+If you want to compare this model with your own in a different dataset, please modify **eeg.py** file to what best suits you. We thank you for your interest in our work :)
 
 [Python - 3.7]: https://www.python.org/downloads/release/python-370/
 [tensorflow-gpu]: https://www.tensorflow.org/install/gpu
