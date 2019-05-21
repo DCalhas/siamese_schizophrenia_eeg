@@ -4,7 +4,7 @@
 * [Python - 3.7]
 * [tensorflow-gpu]
 * [keras]
-* [GPyOpt] - Bayesian Optimization
+* [GPyOpt]
 * [sklearn]
 * [numpy]
 * [scipy]
