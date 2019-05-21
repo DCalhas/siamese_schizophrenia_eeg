@@ -1,6 +1,8 @@
 # Siamese Neural Network Architecture for EEG Classification
 
 ### Citation
+The paper can be found [here].
+
 Please cite this work as follows:
 
 ```
@@ -59,3 +61,4 @@ If you want to compare this model with your own in a different dataset, please m
 [scipy]: https://pypi.org/project/scipy/
 [random]: https://pypi.org/project/random2/
 [xgboost]: https://pypi.org/project/xgboost/
+[here]: https://paper
