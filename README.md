@@ -6,16 +6,13 @@ The paper can be found [here].
 Please cite this work as follows:
 
 ```
-@article{calhas2019scz,
+@article{calhas2019use,
   title={On the use of Pairwise Distance Learning for Brain Signal Classification with Limited Observations},
   author={Calhas, David and Romero, Enrique and Henriques, Rui},
-  journal={},
-  volume={},
-  number={},
-  pages={},
-  year={},
-  publisher={}
+  journal={arXiv preprint arXiv:1906.02076},
+  year={2019}
 }
+
 
 ```
 
@@ -61,4 +58,4 @@ If you want to compare this model with your own in a different dataset, please m
 [scipy]: https://pypi.org/project/scipy/
 [random]: https://pypi.org/project/random2/
 [xgboost]: https://pypi.org/project/xgboost/
-[here]: https://paper
+[here]: https://arxiv.org/pdf/1906.02076.pdf
