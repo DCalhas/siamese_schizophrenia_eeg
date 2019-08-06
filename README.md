@@ -47,7 +47,7 @@ Please note that the **snn_hyperparameter_optimization.py** and **cnnclf_hyperpa
 ```
 
 ### Reproducibility/Comparison Baseline
-If you want to compare this model with your own in a different dataset, please modify **eeg.py** file to what best suits you. The authors thank you for your interest in our work. Please cite our work when using it :)
+If you want to compare this model with your own in a different dataset, please modify **eeg.py** file to what best suits you. The authors thank you for your interest in our work.
 
 [Python - 3.7]: https://www.python.org/downloads/release/python-370/
 [tensorflow-gpu]: https://www.tensorflow.org/install/gpu
