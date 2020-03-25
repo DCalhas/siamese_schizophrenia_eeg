@@ -1,20 +1,20 @@
 # Siamese Neural Network Architecture for EEG Classification
 
-### Citation
-The paper can be found [here].
+%### Citation
+%The paper can be found [here].
 
-Please cite this work as follows:
+%Please cite this work as follows:
 
-```
-@article{calhas2019use,
-  title={On the use of Pairwise Distance Learning for Brain Signal Classification with Limited Observations},
-  author={Calhas, David and Romero, Enrique and Henriques, Rui},
-  journal={arXiv preprint arXiv:1906.02076},
-  year={2019}
-}
-
-
-```
+%```
+%@article{calhas2019use,
+%  title={On the use of Pairwise Distance Learning for Brain Signal Classification with Limited Observations},
+%  author={Calhas, David and Romero, Enrique and Henriques, Rui},
+%  journal={arXiv preprint arXiv:1906.02076},
+%  year={2019}
+%}
+%
+%
+%```
 
 ### Requirements:
 * [Python - 3.7]
